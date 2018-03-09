@@ -8,7 +8,7 @@ function onDeviceReady() {
 
 function deviceInfo() {
 
-	info =  'Hi, I am your smartphone :-)' + '\n' +
+	info =  'Hi, I am your Irek Kozioł :-)' + '\n' +
 			'=====' + '\n' +
 			'Device Name    : '     + device.name     + '\n' + 
 			'Device Cordova : '  + device.cordova + '\n' + 
